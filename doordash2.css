@@ -1,0 +1,218 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: "Poppins", sans-serif;
+}
+.shop {
+    position: relative;
+    top:2000px;
+    height: 650px;
+    background-image: url('Assets/grocery_desktop.png');
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-size:cover;
+    filter:brightness(30%);
+    padding: 15px 20px;
+    text-align: center;
+    color: #fff;
+    background-blend-mode:color-burn;
+}
+.shop h2 {
+    position: absolute;
+    left:520px;
+    top:200px;
+    font-weight: bolder;
+    font-size: xx-large;
+   
+}
+.shop p {
+    position: absolute;
+    left:400px;
+    top:350px;
+    font-weight: bold;
+}
+.shop p span {
+    font-weight: normal;
+}
+.shop a:link {
+    position: absolute;
+    left:630px;
+    top:470px;
+    text-decoration: none;
+    background-color: #f60b07;
+    color: #fff;
+    border-radius: 20px;
+    padding: 6px 6px;
+
+}
+.stores ul {
+    position: absolute;
+    left: 50px;
+    top:3500px;
+    text-align: left;
+    list-style: none;
+}
+.stores ul li {
+    float: left;
+    margin-inline: 30px;
+    font-weight:bolder;
+    color: black;
+    font-size: xx-large;
+}
+.stores ul p {
+    position: relative;
+    top:100px;
+}
+.stores ul span {
+    font-size: medium;
+    font-weight: none;
+    font-weight: 400;
+}
+.stores ul li a:link, :visited{
+    background-color: #f60b07;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 7px 10px;
+}
+.help h4 {
+    position: absolute;
+    left:450px;
+    top:4100px;
+    text-align:center ;
+    font-weight: bold;
+    font-size: xx-large;
+}
+.help ul {
+    position: absolute;
+    left:0;
+    top:4250px;
+    text-align:center ;
+    list-style: none;
+
+}
+.help ul li {
+    float: left;
+    margin-inline:27px;
+    font-weight:bolder;
+    color: black;
+    font-size: 40px;
+}
+.help ul span {
+    font-size: medium;
+    font-weight: 400;
+}
+.help ul li a:link, :visited{
+    background-color: #f60b07;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 7px 10px;
+}
+.dogs ul {
+    position: absolute;
+    left:0;
+    top:5200px;
+    text-align:center ;
+    list-style: none;
+} 
+.dogs ul li {
+    float: left;
+    margin-inline:27px;
+    font-weight:bolder;
+    color: black;
+    font-size: 40px;
+}
+.dogs ul span {
+    font-size: medium;
+    font-weight: 400;
+}
+.dogs ul li a:link, :visited{
+    background-color: #f60b07;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 7px 10px;
+}
+h6 {
+        position: absolute;
+        left:450px;
+        top:6150px;
+        text-align:center ;
+        font-weight: bold;
+        font-size: xx-large;
+}
+.unlock ul {
+    position: absolute;
+    left:0;
+    top:6350px;
+    text-align:left ;
+    list-style: none;
+}
+.unlock ul li {
+    float: left;
+    margin-inline:27px;
+    font-weight:bolder;
+    color: black;
+    font-size: 40px;
+}
+.unlock ul span {
+        font-size: medium;
+        font-weight: none;
+        font-weight: 400;
+}
+.unlock ul p {
+    position: relative;
+    top:100px;
+}
+.unlock ul li a:link, :visited{
+    background-color: #f60b07;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 7px 10px;
+}
+.grow ul {
+    position: absolute;
+    left:0;
+    top:7100px;
+    text-align:left ;
+    list-style: none;
+}
+.grow ul li {
+        float: left;
+        margin-inline:27px;
+        font-weight:bolder;
+        color: black;
+        font-size: 40px;
+    }
+    .grow ul span {
+        font-size: medium;
+        font-weight: 400;
+    }
+    .grow ul p {
+        position: relative;
+        top:80px;
+    }
+    .grow ul li a:link, :visited{
+        background-color: #f60b07;
+        color: white;
+        text-decoration: none;
+        font-size: 15px;
+        font-weight: bold;
+        border-radius: 20px;
+        padding: 7px 10px;
+    }
+    .help {
+        background-color: #c409069d;
+    }
+
